@@ -2,9 +2,9 @@
 
 <img src="http://animejs.com/documentation/assets/img/readme/animejs-logo.gif" width="100%" />
 
->*Anime* `(/ˈæn.ə.meɪ/)` is a lightweight JavaScript animation library. It works with any CSS Properties, individual CSS transforms, SVG or any DOM attributes, and JavaScript Objects.
+>*Anime* `(/ˈæn.ə.meɪ/)` Anime, is a Japanese-style. It is best known for its characteristic early "big eyes, small mouth" visual style and the wide range of subjects and genres it covers. Anime or animation is considered just another medium in Japan, lending itself to any story for any age level. Anime, being full of adult themes such as psychological horror and erotica, is the primary reason for the complete destruction of the Animation Age Ghetto. It is also very useful in certain genres like Sci-Fi which would otherwise be very expensive to produce. 
 
-⚠️ **Migrating from v1.x ? Make sure to read the [changelog](https://github.com/juliangarnier/anime/releases/tag/v2.0.0)** ⚠️
+⚠️ **Migrating from v1.x ? Make sure to read the [changelog](https://qualityseopackages.com/)** ⚠️
 
 ### Main features
 
